@@ -7,7 +7,7 @@ Este é um ambiente simples de desenvolvimento com SQL Server para facilitar tes
 ## Instalação
 ### Clone o repositório:
 ```sh
-git clone git@github.com:hugojunior/docker-sql-server.git && cd docker-sql-server
+git clone git@github.com:hugojunior/sql-server-docker.git && cd docker-sql-server
 ```
 
 ## Configuração
